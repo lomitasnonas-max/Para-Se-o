@@ -47,7 +47,7 @@ momentos contigo, Seño.
 // ─────────────────────────────────────────────────────
 //  CANCIÓN ESPECIAL 2 (carta lateral derecha)
 // ─────────────────────────────────────────────────────
-const DEDICA3_SONG      = "Always With Me.mp3";
+const DEDICA3_SONG      = "Always with Me.mp3";
 const DEDICA3_SONG_NAME = "Always with Me";
 const DEDICA3_ARTIST    = "Youmi Kimura";
 const DEDICA3_IMG       = "Always With Me.jpg";
