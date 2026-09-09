@@ -50,7 +50,7 @@ momentos contigo, Seño.
 const DEDICA3_SONG      = "Always With Me.mp3";
 const DEDICA3_SONG_NAME = "Always with Me";
 const DEDICA3_ARTIST    = "Youmi Kimura";
-const DEDICA3_IMG       = "Always with Me.jpg";
+const DEDICA3_IMG       = "Always With Me.jpg";
 const DEDICA3_MESSAGE = `
 Esta es más para los días raros, esos donde todo pesa un poco más — para
 recordarte que no estás sola y que siempre vas a tener a alguien de tu lado,
